@@ -1,0 +1,9 @@
+c:\users\alexe\documents\visual studio 2017\Projects\Курсовая работа(Исполнитель)\Курсовая работа(Исполнитель)\bin\Debug\Курсовая работа(Исполнитель).exe.config
+c:\users\alexe\documents\visual studio 2017\Projects\Курсовая работа(Исполнитель)\Курсовая работа(Исполнитель)\bin\Debug\Курсовая работа(Исполнитель).exe
+c:\users\alexe\documents\visual studio 2017\Projects\Курсовая работа(Исполнитель)\Курсовая работа(Исполнитель)\bin\Debug\Курсовая работа(Исполнитель).pdb
+c:\users\alexe\documents\visual studio 2017\Projects\Курсовая работа(Исполнитель)\Курсовая работа(Исполнитель)\obj\Debug\Курсовая работа(Исполнитель).csprojResolveAssemblyReference.cache
+c:\users\alexe\documents\visual studio 2017\Projects\Курсовая работа(Исполнитель)\Курсовая работа(Исполнитель)\obj\Debug\Курсовая_работа_Исполнитель_.Form1.resources
+c:\users\alexe\documents\visual studio 2017\Projects\Курсовая работа(Исполнитель)\Курсовая работа(Исполнитель)\obj\Debug\Курсовая_работа_Исполнитель_.Properties.Resources.resources
+c:\users\alexe\documents\visual studio 2017\Projects\Курсовая работа(Исполнитель)\Курсовая работа(Исполнитель)\obj\Debug\Курсовая работа(Исполнитель).csproj.GenerateResource.Cache
+c:\users\alexe\documents\visual studio 2017\Projects\Курсовая работа(Исполнитель)\Курсовая работа(Исполнитель)\obj\Debug\Курсовая работа(Исполнитель).exe
+c:\users\alexe\documents\visual studio 2017\Projects\Курсовая работа(Исполнитель)\Курсовая работа(Исполнитель)\obj\Debug\Курсовая работа(Исполнитель).pdb

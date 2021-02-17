@@ -1,0 +1,17 @@
+c:\users\alexe\documents\visual studio 2017\Projects\Курсовая работа(Исполнитель)\Курсовая работа(Исполнитель)\bin\Release\Курсовая работа(Исполнитель).exe.config
+c:\users\alexe\documents\visual studio 2017\Projects\Курсовая работа(Исполнитель)\Курсовая работа(Исполнитель)\bin\Release\Курсовая работа(Исполнитель).exe
+c:\users\alexe\documents\visual studio 2017\Projects\Курсовая работа(Исполнитель)\Курсовая работа(Исполнитель)\bin\Release\Курсовая работа(Исполнитель).pdb
+c:\users\alexe\documents\visual studio 2017\Projects\Курсовая работа(Исполнитель)\Курсовая работа(Исполнитель)\obj\Release\Курсовая_работа_Исполнитель_.Form1.resources
+c:\users\alexe\documents\visual studio 2017\Projects\Курсовая работа(Исполнитель)\Курсовая работа(Исполнитель)\obj\Release\Курсовая_работа_Исполнитель_.Properties.Resources.resources
+c:\users\alexe\documents\visual studio 2017\Projects\Курсовая работа(Исполнитель)\Курсовая работа(Исполнитель)\obj\Release\Курсовая работа(Исполнитель).csproj.GenerateResource.Cache
+c:\users\alexe\documents\visual studio 2017\Projects\Курсовая работа(Исполнитель)\Курсовая работа(Исполнитель)\obj\Release\Курсовая работа(Исполнитель).exe
+c:\users\alexe\documents\visual studio 2017\Projects\Курсовая работа(Исполнитель)\Курсовая работа(Исполнитель)\obj\Release\Курсовая работа(Исполнитель).pdb
+D:\Projects\C# Projects\Windows Forms C# (Исполнитель)\Курсовая работа(Исполнитель)\Курсовая работа(Исполнитель)\bin\Release\Курсовая работа(Исполнитель).exe.config
+D:\Projects\C# Projects\Windows Forms C# (Исполнитель)\Курсовая работа(Исполнитель)\Курсовая работа(Исполнитель)\bin\Release\Курсовая работа(Исполнитель).exe
+D:\Projects\C# Projects\Windows Forms C# (Исполнитель)\Курсовая работа(Исполнитель)\Курсовая работа(Исполнитель)\bin\Release\Курсовая работа(Исполнитель).pdb
+D:\Projects\C# Projects\Windows Forms C# (Исполнитель)\Курсовая работа(Исполнитель)\Курсовая работа(Исполнитель)\obj\Release\Курсовая работа(Исполнитель).csprojAssemblyReference.cache
+D:\Projects\C# Projects\Windows Forms C# (Исполнитель)\Курсовая работа(Исполнитель)\Курсовая работа(Исполнитель)\obj\Release\Курсовая_работа_Исполнитель_.Form1.resources
+D:\Projects\C# Projects\Windows Forms C# (Исполнитель)\Курсовая работа(Исполнитель)\Курсовая работа(Исполнитель)\obj\Release\Курсовая_работа_Исполнитель_.Properties.Resources.resources
+D:\Projects\C# Projects\Windows Forms C# (Исполнитель)\Курсовая работа(Исполнитель)\Курсовая работа(Исполнитель)\obj\Release\Курсовая работа(Исполнитель).csproj.GenerateResource.cache
+D:\Projects\C# Projects\Windows Forms C# (Исполнитель)\Курсовая работа(Исполнитель)\Курсовая работа(Исполнитель)\obj\Release\Курсовая работа(Исполнитель).exe
+D:\Projects\C# Projects\Windows Forms C# (Исполнитель)\Курсовая работа(Исполнитель)\Курсовая работа(Исполнитель)\obj\Release\Курсовая работа(Исполнитель).pdb

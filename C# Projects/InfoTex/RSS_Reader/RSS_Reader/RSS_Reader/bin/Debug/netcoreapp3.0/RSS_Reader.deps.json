@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.0": {
+      "RSS_Reader/1.0.0": {
+        "runtime": {
+          "RSS_Reader.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "RSS_Reader/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
