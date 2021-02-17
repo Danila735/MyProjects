@@ -1,0 +1,146 @@
+<html>
+<body>
+<pre>
+<h1>µVision Build Log</h1>
+<h2>Tool Versions:</h2>
+IDE-Version: µVision V5.33.0.0
+Copyright (C) 2020 ARM Ltd and ARM Germany GmbH. All rights reserved.
+License Information: Danila Mironov, TUSUR, LIC=----
+ 
+Tool Versions:
+Toolchain:       MDK-Lite  Version: 5.33.0.0
+Toolchain Path:  D:\Develop\Keil\Core\ARM\ARMCLANG\Bin
+C Compiler:      ArmClang.exe V6.15
+Assembler:       Armasm.exe V6.15
+Linker/Locator:  ArmLink.exe V6.15
+Library Manager: ArmAr.exe V6.15
+Hex Converter:   FromElf.exe V6.15
+CPU DLL:         SARMCM3.DLL V5.33.0.0
+Dialog DLL:      DCM.DLL V1.17.3.0
+Target DLL:      STLink\ST-LINKIII-KEIL_SWO.dll V3.0.8.0
+Dialog DLL:      TCM.DLL V1.48.0.0
+ 
+<h2>Project:</h2>
+D:\Projects\KeilProjects\testMorze\testMorze.uvprojx
+Project File Date:  12/21/2020
+
+<h2>Output:</h2>
+*** Using Compiler 'V6.15', folder: 'D:\Develop\Keil\Core\ARM\ARMCLANG\Bin'
+Build target 'Target 1'
+compiling misc.c...
+assembling startup_stm32f10x_ld.s...
+compiling stm32f10x_gpio.c...
+compiling stm32f10x_rcc.c...
+rxtx.cpp(20): error: use of undeclared identifier 'Delay'
+        Delay(200); 
+        ^
+rxtx.cpp(44): error: use of undeclared identifier 'Delay'
+        Delay(200);
+        ^
+2 errors generated.
+compiling rxtx.cpp...
+main.cpp(15): error: unknown type name 'PORT_OE_TypeDef'
+void PinInitA       (PORT_OE_TypeDef mode, uint16_t pin);
+                     ^
+main.cpp(25): error: use of undeclared identifier 'PORT_OE_OUT'
+    PinInitA(PORT_OE_OUT, TXPin);
+             ^
+main.cpp(26): error: use of undeclared identifier 'PORT_OE_IN'
+    PinInitA(PORT_OE_IN, RXPin);
+             ^
+main.cpp(27): error: use of undeclared identifier 'PORT_OE_OUT'
+    PinInitA(PORT_OE_OUT, StrobePin1);
+             ^
+main.cpp(28): error: use of undeclared identifier 'PORT_OE_IN'
+    PinInitA(PORT_OE_IN, StrobePin2);
+             ^
+main.cpp(45): error: use of undeclared identifier 'Delay'
+            Delay(500);
+            ^
+main.cpp(85): error: use of undeclared identifier 'Delay'
+            Delay(500);
+            ^
+main.cpp(89): error: use of undeclared identifier 'Delay'
+            Delay(1500);
+            ^
+main.cpp(96): error: use of undeclared identifier 'Delay'
+        Delay(500);
+        ^
+main.cpp(100): error: unknown type name 'GPIO_OE_TypeDef'; did you mean 'GPIO_TypeDef'?
+void PinInitA(GPIO_OE_TypeDef mode, uint16_t pin)
+              ^~~~~~~~~~~~~~~
+              GPIO_TypeDef
+D:/Develop/Keil/Pack/Keil/STM32F1xx_DFP/2.3.0/Device/Include\stm32f10x.h(1015): note: 'GPIO_TypeDef' declared here
+} GPIO_TypeDef;
+  ^
+main.cpp(102): error: unknown type name 'PORT_InitTypeDef'
+    PORT_InitTypeDef PORT_InitStructure;
+    ^
+main.cpp(104): error: use of undeclared identifier 'PORT_FUNC_PORT'
+    PORT_InitStructure.PORT_FUNC = PORT_FUNC_PORT;
+                                   ^
+main.cpp(105): error: use of undeclared identifier 'PORT_MODE_DIGITAL'
+    PORT_InitStructure.PORT_MODE = PORT_MODE_DIGITAL;
+                                   ^
+main.cpp(106): error: use of undeclared identifier 'PORT_SPEED_SLOW'
+    PORT_InitStructure.PORT_SPEED = PORT_SPEED_SLOW;
+                                    ^
+14 errors generated.
+compiling main.cpp...
+compiling morze.cpp...
+compiling system_stm32f10x.c...
+".\Objects\testMorze.axf" - 16 Error(s), 0 Warning(s).
+
+<h2>Software Packages used:</h2>
+
+Package Vendor: ARM
+                http://www.keil.com/pack/ARM.CMSIS.5.7.0.pack
+                ARM.CMSIS.5.7.0
+                CMSIS (Cortex Microcontroller Software Interface Standard)
+   * Component: CORE Version: 5.4.0
+
+Package Vendor: Keil
+                http://www.keil.com/pack/Keil.STM32F1xx_DFP.2.3.0.pack
+                Keil.STM32F1xx_DFP.2.3.0
+                STMicroelectronics STM32F1 Series Device Support, Drivers and Examples
+   * Component: Startup Version: 1.0.0
+   * Component: Framework Version: 3.5.1
+   * Component: GPIO Version: 3.5.0
+   * Component: RCC Version: 3.5.0
+
+<h2>Collection of Component include folders:</h2>
+  .\RTE\Device\STM32F103C4
+  .\RTE\_Target_1
+  D:\Develop\Keil\Pack\ARM\CMSIS\5.7.0\CMSIS\Core\Include
+  D:\Develop\Keil\Pack\Keil\STM32F1xx_DFP\2.3.0\Device\Include
+  D:\Develop\Keil\Pack\Keil\STM32F1xx_DFP\2.3.0\Device\StdPeriph_Driver\inc
+
+<h2>Collection of Component Files used:</h2>
+
+   * Component: ARM::CMSIS:CORE:5.4.0
+
+   * Component: Keil::Device:Startup:1.0.0
+      Source file:   Device\Source\ARM\STM32F1xx_OPT.s
+      Source file:   Device\Source\system_stm32f10x.c
+      Source file:   Device\Source\ARM\startup_stm32f10x_ld.s
+      Include file:  RTE_Driver\Config\RTE_Device.h
+
+   * Component: Keil::Device:StdPeriph Drivers:Framework:3.5.1
+      Source file:   Device\StdPeriph_Driver\templates\stm32f10x_it.c
+      Source file:   Device\StdPeriph_Driver\src\misc.c
+      Include file:  Device\StdPeriph_Driver\templates\stm32f10x_it.h
+      Include file:  Device\StdPeriph_Driver\inc\misc.h
+      Source file:   Device\StdPeriph_Driver\templates\stm32f10x_conf.h
+
+   * Component: Keil::Device:StdPeriph Drivers:GPIO:3.5.0
+      Include file:  Device\StdPeriph_Driver\inc\stm32f10x_gpio.h
+      Source file:   Device\StdPeriph_Driver\src\stm32f10x_gpio.c
+
+   * Component: Keil::Device:StdPeriph Drivers:RCC:3.5.0
+      Source file:   Device\StdPeriph_Driver\src\stm32f10x_rcc.c
+      Include file:  Device\StdPeriph_Driver\inc\stm32f10x_rcc.h
+Target not created.
+Build Time Elapsed:  00:00:01
+</pre>
+</body>
+</html>
