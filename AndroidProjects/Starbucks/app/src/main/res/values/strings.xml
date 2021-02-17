@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Starbucks</string>
+    <string name="starbucks_logo">Starbucks logo</string>
+
+    <string-array name="options">
+        <item>Drinks</item>
+        <item>Food</item>
+        <item>Stores</item>
+    </string-array>
+
+    <string name="favorite">Favorite</string>
+    <string name="favorites">Your favorite drinks:</string>
+
+</resources>

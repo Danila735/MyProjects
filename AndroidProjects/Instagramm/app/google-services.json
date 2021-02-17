@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "1079525695563",
+    "firebase_url": "https://istagramm-4c80f.firebaseio.com",
+    "project_id": "istagramm-4c80f",
+    "storage_bucket": "istagramm-4c80f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1079525695563:android:1daf67a48ba7be5389edce",
+        "android_client_info": {
+          "package_name": "com.example.instagramm"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1079525695563-535hlps3mfc6o7jmdag2f8o64it9o11i.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.instagramm",
+            "certificate_hash": "43edfa10df5016979a643825ba2834f36f0c41ff"
+          }
+        },
+        {
+          "client_id": "1079525695563-05fmajboail21bpd2en8dlc18sq7njek.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCHMKakau_ZSTG8EVqnIAdZpvKkAybeBNE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1079525695563-05fmajboail21bpd2en8dlc18sq7njek.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
