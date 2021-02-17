@@ -1,0 +1,3 @@
+﻿  Source.cpp
+D:\Projects\C++ Project\TinyElGamal\TinyElGamal\TinyElGamal\Source.cpp(106,12): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+  TinyElGamal.vcxproj -> D:\Projects\C++ Project\TinyElGamal\TinyElGamal\Debug\TinyElGamal.exe

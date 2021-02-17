@@ -1,0 +1,4 @@
+﻿  Source.cpp
+D:\Projects\C++ Project\TinyRSA\tinyRSA\tinyRSA\Source.cpp(115,12): warning C4018: <: несоответствие типов со знаком и без знака
+D:\Projects\C++ Project\TinyRSA\tinyRSA\tinyRSA\Source.cpp(30): warning C4715: sundaram: значение возвращается не при всех путях выполнения
+  tinyRSA.vcxproj -> D:\Projects\C++ Project\TinyRSA\tinyRSA\Debug\tinyRSA.exe

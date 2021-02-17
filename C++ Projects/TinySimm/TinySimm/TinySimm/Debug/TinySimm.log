@@ -1,0 +1,5 @@
+﻿  Source.cpp
+D:\Projects\C++ Project\TinySimm\TinySimm\TinySimm\Source.cpp(53,10): error C3872: 0x2502: этот символ невозможно использовать в идентификаторе
+D:\Projects\C++ Project\TinySimm\TinySimm\TinySimm\Source.cpp(53,10): error C3861: res│: идентификатор не найден
+D:\Projects\C++ Project\TinySimm\TinySimm\TinySimm\Source.cpp(55,14): error C3872: 0x2502: этот символ невозможно использовать в идентификаторе
+D:\Projects\C++ Project\TinySimm\TinySimm\TinySimm\Source.cpp(55,14): error C3861: res│: идентификатор не найден

@@ -1,0 +1,4 @@
+﻿  Source.cpp
+D:\Projects\C++ Project\Variant18\Variant18\Source.cpp(12,87): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+D:\Projects\C++ Project\Variant18\Variant18\Source.cpp(14,9): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+  Variant18.vcxproj -> D:\Projects\C++ Project\Variant18\Debug\Variant18.exe

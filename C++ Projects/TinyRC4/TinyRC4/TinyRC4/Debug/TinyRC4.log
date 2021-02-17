@@ -1,0 +1,3 @@
+﻿  Source.cpp
+D:\Projects\C++ Project\TinyRC4\TinyRC4\TinyRC4\Source.cpp(66,1): warning C4326: возвращаемый тип "main" должен быть "int", а не "void"
+  TinyRC4.vcxproj -> D:\Projects\C++ Project\TinyRC4\TinyRC4\Debug\TinyRC4.exe
