@@ -1,0 +1,17 @@
+D:\Projects\.Net Projects\SecondProject\WpfApp1\WpfApp1\bin\Debug\netcoreapp3.0\WpfApp1.exe
+D:\Projects\.Net Projects\SecondProject\WpfApp1\WpfApp1\bin\Debug\netcoreapp3.0\WpfApp1.deps.json
+D:\Projects\.Net Projects\SecondProject\WpfApp1\WpfApp1\bin\Debug\netcoreapp3.0\WpfApp1.runtimeconfig.json
+D:\Projects\.Net Projects\SecondProject\WpfApp1\WpfApp1\bin\Debug\netcoreapp3.0\WpfApp1.runtimeconfig.dev.json
+D:\Projects\.Net Projects\SecondProject\WpfApp1\WpfApp1\bin\Debug\netcoreapp3.0\WpfApp1.dll
+D:\Projects\.Net Projects\SecondProject\WpfApp1\WpfApp1\bin\Debug\netcoreapp3.0\WpfApp1.pdb
+D:\Projects\.Net Projects\SecondProject\WpfApp1\WpfApp1\obj\Debug\netcoreapp3.0\WpfApp1.csprojAssemblyReference.cache
+D:\Projects\.Net Projects\SecondProject\WpfApp1\WpfApp1\obj\Debug\netcoreapp3.0\MainWindow.g.cs
+D:\Projects\.Net Projects\SecondProject\WpfApp1\WpfApp1\obj\Debug\netcoreapp3.0\App.g.cs
+D:\Projects\.Net Projects\SecondProject\WpfApp1\WpfApp1\obj\Debug\netcoreapp3.0\WpfApp1_MarkupCompile.cache
+D:\Projects\.Net Projects\SecondProject\WpfApp1\WpfApp1\obj\Debug\netcoreapp3.0\WpfApp1_MarkupCompile.lref
+D:\Projects\.Net Projects\SecondProject\WpfApp1\WpfApp1\obj\Debug\netcoreapp3.0\MainWindow.baml
+D:\Projects\.Net Projects\SecondProject\WpfApp1\WpfApp1\obj\Debug\netcoreapp3.0\WpfApp1.g.resources
+D:\Projects\.Net Projects\SecondProject\WpfApp1\WpfApp1\obj\Debug\netcoreapp3.0\WpfApp1.AssemblyInfoInputs.cache
+D:\Projects\.Net Projects\SecondProject\WpfApp1\WpfApp1\obj\Debug\netcoreapp3.0\WpfApp1.AssemblyInfo.cs
+D:\Projects\.Net Projects\SecondProject\WpfApp1\WpfApp1\obj\Debug\netcoreapp3.0\WpfApp1.dll
+D:\Projects\.Net Projects\SecondProject\WpfApp1\WpfApp1\obj\Debug\netcoreapp3.0\WpfApp1.pdb
